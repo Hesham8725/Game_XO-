@@ -1,0 +1,18 @@
+F:\c# program\game XO\game XO\obj\Debug\netcoreapp3.1\game XO.csproj.AssemblyReference.cache
+F:\c# program\game XO\game XO\obj\Debug\netcoreapp3.1\game_XO.Form1.resources
+F:\c# program\game XO\game XO\obj\Debug\netcoreapp3.1\game_XO.Form2.resources
+F:\c# program\game XO\game XO\obj\Debug\netcoreapp3.1\game XO.csproj.GenerateResource.cache
+F:\c# program\game XO\game XO\obj\Debug\netcoreapp3.1\game XO.GeneratedMSBuildEditorConfig.editorconfig
+F:\c# program\game XO\game XO\obj\Debug\netcoreapp3.1\game XO.AssemblyInfoInputs.cache
+F:\c# program\game XO\game XO\obj\Debug\netcoreapp3.1\game XO.AssemblyInfo.cs
+F:\c# program\game XO\game XO\obj\Debug\netcoreapp3.1\game XO.csproj.CoreCompileInputs.cache
+F:\c# program\game XO\game XO\obj\Debug\netcoreapp3.1\game XO.genruntimeconfig.cache
+F:\c# program\game XO\game XO\obj\Debug\netcoreapp3.1\game_XO.Properties.Resources.resources
+F:\c# program\game XO\game XO\bin\Debug\netcoreapp3.1\game_XO.exe
+F:\c# program\game XO\game XO\bin\Debug\netcoreapp3.1\game_XO.deps.json
+F:\c# program\game XO\game XO\bin\Debug\netcoreapp3.1\game_XO.runtimeconfig.json
+F:\c# program\game XO\game XO\bin\Debug\netcoreapp3.1\game_XO.runtimeconfig.dev.json
+F:\c# program\game XO\game XO\bin\Debug\netcoreapp3.1\game_XO.dll
+F:\c# program\game XO\game XO\bin\Debug\netcoreapp3.1\game_XO.pdb
+F:\c# program\game XO\game XO\obj\Debug\netcoreapp3.1\game_XO.dll
+F:\c# program\game XO\game XO\obj\Debug\netcoreapp3.1\game_XO.pdb
